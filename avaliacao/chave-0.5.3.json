@@ -1,0 +1,146 @@
+[
+  {
+    "caso": "X101",
+    "familia": "F07",
+    "condicao": "adequado",
+    "percurso": "M2",
+    "alvo": "Contradição de resultados sob mesmas condições",
+    "esperado": "Detectar concentração e não concentração afirmadas pela mesma voz para mesmo índice, população e década; não dissolver contradição como pluralidade legítima. Não escolher qual resultado é historicamente verdadeiro.",
+    "nao_exigir": "No adequado, não declarar contradição quando as décadas são distintas; preservar integração temporal."
+  },
+  {
+    "caso": "X102",
+    "familia": "F02",
+    "condicao": "alterado",
+    "percurso": "M1",
+    "alvo": "Pressuposição causal exclusiva e inevitabilidade antecipadas",
+    "esperado": "Detectar que a pergunta converte em fato comprovado a exclusividade e inevitabilidade não estabelecidas pelo contexto e conflita com o compromisso de examinar alternativas. Retirar a pressuposição ou convertê-la em hipótese testável, preservando o fenômeno.",
+    "nao_exigir": "No adequado, em que medida não obriga quantificação nem causa exclusiva; não declarar inviabilidade documental sem exame das fontes."
+  },
+  {
+    "caso": "X103",
+    "familia": "F06",
+    "condicao": "alterado",
+    "percurso": "M2",
+    "alvo": "Força causal exclusiva incompatível com limite explícito",
+    "esperado": "Detectar passagem injustificada e internamente incompatível de associação com efeito não isolado para causalidade exclusiva comprovada, nas mesmas condições. Distinguir crítica da inferência de prova externa de falsidade histórica.",
+    "nao_exigir": "No adequado, não exigir causalidade porque a pergunta pede relação; não converter resultado exploratório em descumprimento."
+  },
+  {
+    "caso": "X104",
+    "familia": "F05",
+    "condicao": "alterado",
+    "percurso": "M2",
+    "alvo": "Resolução integral alegada sem resposta a componente explícito",
+    "esperado": "Detectar incoerência entre P02 (variação sem resposta) e P03 (todos componentes resolvidos), confirmada pela introdução. Não chamar a simples parcialidade de erro. Propor retirar resolução integral ou responder componente se evidências permitirem.",
+    "nao_exigir": "No adequado, preservar inconclusão justificada, não obrigar restrição da pergunta ou inventar resultados. Em módulo2 antes da introdução a contradição já é localmente visível na variante alterada."
+  },
+  {
+    "caso": "X105",
+    "familia": "F01",
+    "condicao": "alterado",
+    "percurso": "M1",
+    "alvo": "Pedidos autônomos sem relação explicitada",
+    "esperado": "Identificar a ausência expressamente declarada de articulação entre os dois pedidos e propor separação, escolha ou justificação de uma relação; não apenas encurtar a frase.",
+    "nao_exigir": "No adequado, não acusar fragmentação por haver crédito e renegociação, permanência e perda; são componentes de uma relação. Não exigir causa única."
+  },
+  {
+    "caso": "X106",
+    "familia": "F04",
+    "condicao": "alterado",
+    "percurso": "M1",
+    "alvo": "Secundária editorial declarada logicamente indispensável",
+    "esperado": "Apontar que a necessidade atribuída a S3 não decorre da central e que uma decisão de apresentação foi convertida indevidamente em secundária indispensável. Preservar S1/S2 e distinguir apoio metodológico de pergunta substantiva.",
+    "nao_exigir": "Não exigir que toda questão metodológica seja excluída: a falha é a indispensabilidade causal de S3 nas condições expressas; não acusar pressuposição fechada de favorecimento pois P01 a qualifica como hipótese aberta."
+  },
+  {
+    "caso": "X107",
+    "familia": "F08",
+    "condicao": "adequado",
+    "percurso": "M2",
+    "alvo": "Cronologia de primeira edição versus escrita",
+    "esperado": "Após introdução/referências, apontar desacordo entre1908 e1912 para a mesma primeira publicação. Antes do confronto, não acusar contradição só porque escrita e publicação podem ocorrer no mesmo ano. Não decidir data histórica fora do registro fictício.",
+    "nao_exigir": "No adequado, conservar distinção escrita1908/publicação1912 e reedição1920; nenhuma dessas datas diferentes prova erro."
+  },
+  {
+    "caso": "X108",
+    "familia": "F02",
+    "condicao": "adequado",
+    "percurso": "M1",
+    "alvo": "Pressuposição causal exclusiva e inevitabilidade antecipadas",
+    "esperado": "Detectar que a pergunta converte em fato comprovado a exclusividade e inevitabilidade não estabelecidas pelo contexto e conflita com o compromisso de examinar alternativas. Retirar a pressuposição ou convertê-la em hipótese testável, preservando o fenômeno.",
+    "nao_exigir": "No adequado, em que medida não obriga quantificação nem causa exclusiva; não declarar inviabilidade documental sem exame das fontes."
+  },
+  {
+    "caso": "X109",
+    "familia": "F03",
+    "condicao": "adequado",
+    "percurso": "M1",
+    "alvo": "Categoria avaliativa sem referente ou critério",
+    "esperado": "Apontar indeterminação de pior/menos civilizada e pressuposição de inferioridade sem referência, além da mudança de demanda caracterização→causa. Não exigir interpretar pior como piora diacrônica desde1920; pode ser comparação indeterminada em1940. Propor explicitar critério e referente ou alternativa de caracterização, sem inventar índices/resultados.",
+    "nao_exigir": "No adequado, não chamar comparação de períodos ou categorias sexo/bairros de duas pesquisas autônomas; não converter descrição em explicação causal."
+  },
+  {
+    "caso": "X110",
+    "familia": "F08",
+    "condicao": "alterado",
+    "percurso": "M2",
+    "alvo": "Cronologia de primeira edição versus escrita",
+    "esperado": "Após introdução/referências, apontar desacordo entre1908 e1912 para a mesma primeira publicação. Antes do confronto, não acusar contradição só porque escrita e publicação podem ocorrer no mesmo ano. Não decidir data histórica fora do registro fictício.",
+    "nao_exigir": "No adequado, conservar distinção escrita1908/publicação1912 e reedição1920; nenhuma dessas datas diferentes prova erro."
+  },
+  {
+    "caso": "X111",
+    "familia": "F05",
+    "condicao": "adequado",
+    "percurso": "M2",
+    "alvo": "Resolução integral alegada sem resposta a componente explícito",
+    "esperado": "Detectar incoerência entre P02 (variação sem resposta) e P03 (todos componentes resolvidos), confirmada pela introdução. Não chamar a simples parcialidade de erro. Propor retirar resolução integral ou responder componente se evidências permitirem.",
+    "nao_exigir": "No adequado, preservar inconclusão justificada, não obrigar restrição da pergunta ou inventar resultados. Em módulo2 antes da introdução a contradição já é localmente visível na variante alterada."
+  },
+  {
+    "caso": "X112",
+    "familia": "F03",
+    "condicao": "alterado",
+    "percurso": "M1",
+    "alvo": "Categoria avaliativa sem referente ou critério",
+    "esperado": "Apontar indeterminação de pior/menos civilizada e pressuposição de inferioridade sem referência, além da mudança de demanda caracterização→causa. Não exigir interpretar pior como piora diacrônica desde1920; pode ser comparação indeterminada em1940. Propor explicitar critério e referente ou alternativa de caracterização, sem inventar índices/resultados.",
+    "nao_exigir": "No adequado, não chamar comparação de períodos ou categorias sexo/bairros de duas pesquisas autônomas; não converter descrição em explicação causal."
+  },
+  {
+    "caso": "X113",
+    "familia": "F01",
+    "condicao": "adequado",
+    "percurso": "M1",
+    "alvo": "Pedidos autônomos sem relação explicitada",
+    "esperado": "Identificar a ausência expressamente declarada de articulação entre os dois pedidos e propor separação, escolha ou justificação de uma relação; não apenas encurtar a frase.",
+    "nao_exigir": "No adequado, não acusar fragmentação por haver crédito e renegociação, permanência e perda; são componentes de uma relação. Não exigir causa única."
+  },
+  {
+    "caso": "X114",
+    "familia": "F04",
+    "condicao": "adequado",
+    "percurso": "M1",
+    "alvo": "Secundária editorial declarada logicamente indispensável",
+    "esperado": "Apontar que a necessidade atribuída a S3 não decorre da central e que uma decisão de apresentação foi convertida indevidamente em secundária indispensável. Preservar S1/S2 e distinguir apoio metodológico de pergunta substantiva.",
+    "nao_exigir": "Não exigir que toda questão metodológica seja excluída: a falha é a indispensabilidade causal de S3 nas condições expressas; não acusar pressuposição fechada de favorecimento pois P01 a qualifica como hipótese aberta."
+  },
+  {
+    "caso": "X115",
+    "familia": "F06",
+    "condicao": "adequado",
+    "percurso": "M2",
+    "alvo": "Força causal exclusiva incompatível com limite explícito",
+    "esperado": "Detectar passagem injustificada e internamente incompatível de associação com efeito não isolado para causalidade exclusiva comprovada, nas mesmas condições. Distinguir crítica da inferência de prova externa de falsidade histórica.",
+    "nao_exigir": "No adequado, não exigir causalidade porque a pergunta pede relação; não converter resultado exploratório em descumprimento."
+  },
+  {
+    "caso": "X116",
+    "familia": "F07",
+    "condicao": "alterado",
+    "percurso": "M2",
+    "alvo": "Contradição de resultados sob mesmas condições",
+    "esperado": "Detectar concentração e não concentração afirmadas pela mesma voz para mesmo índice, população e década; não dissolver contradição como pluralidade legítima. Não escolher qual resultado é historicamente verdadeiro.",
+    "nao_exigir": "No adequado, não declarar contradição quando as décadas são distintas; preservar integração temporal."
+  }
+]
