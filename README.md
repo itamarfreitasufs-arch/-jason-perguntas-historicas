@@ -1,4 +1,4 @@
-# Jason — perguntas e coerência da pesquisa histórica
+# Jason — Historical Research Questions | Perguntas de pesquisa histórica
 
 Protocolo de **Itamar Freitas**, versão **0.5.4 experimental**, preparado em 5 de novembro de 2026, com assistência de IA.
 
