@@ -2,6 +2,8 @@
 
 ## 0.5.4 — 5 de novembro de 2026 — experimental
 
+[Commit da publicação](https://github.com/itamarfreitasufs-arch/-jason-perguntas-historicas/commit/7796814c682c0ea400b258f0e7f6ed87add1c383).
+
 - Distingue inferioridade comparativa de declínio temporal; exige referente antes de inferir direção.
 - Separa identificação de desacordo e escolha da afirmação verdadeira; contagem de ocorrências não determina reparo histórico.
 - Explicita materiais congelados, leituras adicionais, contexto compartilhado e origem dos hashes.
@@ -15,3 +17,9 @@
 - Ensaios documentais e controlados descritos em AVALIACAO.md.
 
 Versões de desenvolvimento anteriores não são anunciadas como publicações prévias no GitHub. As próximas correções devem preservar a identificação das versões e descrever mudanças e limites.
+
+## Convenção de versões
+
+Cada skill segue sua própria sequência `principal.secundária.correção`. Incremente o último número para correções pontuais e o número do meio para mudanças relevantes no método, reiniciando o último em zero. Registre o estágio da edição em separado, como experimental, em validação ou estável. Reserve `1.0.0` para a primeira edição que cumpra critérios explícitos de validação.
+
+Registre cada mudança coerente em um commit. Para cada marco de versão, anote o commit correspondente, as mudanças, os testes realizados e as pendências.
