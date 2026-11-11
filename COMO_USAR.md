@@ -1,6 +1,6 @@
 # Como usar a Jason
 
-Itamar Freitas — versão 0.5.4 experimental.
+Itamar Freitas — versão 0.5.5 experimental.
 
 ## Revisar e decompor uma pergunta
 

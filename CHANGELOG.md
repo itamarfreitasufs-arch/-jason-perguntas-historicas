@@ -1,5 +1,15 @@
 # Histórico de desenvolvimento
 
+## 0.5.5 — 11 de novembro de 2026 — experimental
+
+Correção editorial, sem mudança de método e sem novos ensaios.
+
+- Remove do protocolo as referências a “esta conversa” e a afirmação de que a consolidação não constitui publicação no GitHub.
+- Acrescenta ao cabeçalho de distribuição a salvaguarda sobre `exemplos/` e `avaliacao/` e a ordem de entrega do módulo 2 (parecer breve primeiro, anexo compacto depois).
+- Regenera `SHA256SUMS.txt`, que estava em desacordo com `SKILL.md`, `README.md` e `CHANGELOG.md` desde a padronização de 10 de novembro de 2026.
+- Acrescenta `.gitattributes` com finais de linha LF, para que a conferência de hashes não falhe em clones feitos no Windows.
+- `verificar_integridade.py` ignora linhas vazias do manifesto e confere se o corpo de `SKILL.md` coincide com `protocolo.md`.
+
 ## 0.5.4 — 5 de novembro de 2026 — experimental
 
 [Commit da publicação](https://github.com/itamarfreitasufs-arch/-jason-perguntas-historicas/commit/7796814c682c0ea400b258f0e7f6ed87add1c383).

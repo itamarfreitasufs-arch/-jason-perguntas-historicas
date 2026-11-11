@@ -1,6 +1,6 @@
 # Jason revisão de perguntas e coerência da pesquisa histórica
 
-Protocolo integrado versão 6, distribuição 0.5.4 — 5 de novembro de 2026. Concepção autoral de Itamar Freitas, formalizada com assistência de IA a partir desta conversa e dos protocolos anteriores. Esta consolidação preserva os arquivos de revisão lógica e as versões 1 e 2 do protocolo de reconstrução. Não constitui avaliação comparativa de superioridade da Jason sobre pesquisadores, validação geral de eficácia ou publicação no GitHub.
+Protocolo integrado versão 6, distribuição 0.5.5 — 11 de novembro de 2026 (correção editorial da 0.5.4, de 5 de novembro de 2026). Concepção autoral de Itamar Freitas, formalizada com assistência de IA a partir de conversas de desenvolvimento e dos protocolos anteriores. Esta consolidação preserva os arquivos de revisão lógica e as versões 1 e 2 do protocolo de reconstrução. Não constitui avaliação comparativa de superioridade da Jason sobre pesquisadores nem validação geral de eficácia.
 
 ## Finalidade e princípios
 
@@ -114,7 +114,7 @@ Antes de entregar, conferir: objetivos expressos preservados ou prioridade alter
 
 Resultado é o que a investigação estabelece em resposta a uma pergunta. Conclusão como operação é inferência ou síntese que articula resultados e o que deles se pode sustentar. Conclusão ou considerações finais como seção é a unidade textual que pode reunir resposta, significados, limites e desdobramentos. São definições operacionais provisórias: o título não define a função e não se alega consenso terminológico.
 
-Registrar versão e data do protocolo, todas as entradas e seus hashes individuais, incluindo metadados de autoria/obra e materiais de conferência, seção e páginas, estatuto literal ou reconstruído dos enunciados, critérios aplicados, decisões e alternativas, cobertura, contato prévio e manifestação do pesquisador. Congelar cada etapa antes da seguinte, preservando versões e motivos de correção. Fontes metodológicas: protocolos autorais de Itamar Freitas sobre revisão lógica e decomposição e a construção do protocolo 2 nesta conversa. Não atribuir esta consolidação diretamente a Walther ou Kant sem a consulta e a justificação específicas.
+Registrar versão e data do protocolo, todas as entradas e seus hashes individuais, incluindo metadados de autoria/obra e materiais de conferência, seção e páginas, estatuto literal ou reconstruído dos enunciados, critérios aplicados, decisões e alternativas, cobertura, contato prévio e manifestação do pesquisador. Congelar cada etapa antes da seguinte, preservando versões e motivos de correção. Fontes metodológicas: protocolos autorais de Itamar Freitas sobre revisão lógica e decomposição e a construção do protocolo 2 em conversa de desenvolvimento. Não atribuir esta consolidação diretamente a Walther ou Kant sem a consulta e a justificação específicas.
 
 Registrar a manifestação do pesquisador como aceita, rejeita, adapta ou não obtida. Ausência de manifestação não equivale a concordância. Nas aplicações documentais sem contato com o autor, registrar “não obtida”.
 

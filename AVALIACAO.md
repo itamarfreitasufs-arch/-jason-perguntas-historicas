@@ -24,6 +24,10 @@ As entradas e a chave desses casos são disponibilizadas em exemplos/ e avaliaca
 
 A redação foi corrigida para preservar a diferença entre comparação e mudança temporal, tornar o reparo de desacordos mais prudente e registrar exposições adicionais. Os resultados da 0.5.3 continuam identificados com a versão efetivamente aplicada. Dois controles conhecidos foram reaplicados em contextos novos à 0.5.4: a pergunta avaliativa X112 e o confronto cronológico X110. O primeiro preservou inferioridade comparativa sem impor declínio temporal; o segundo identificou o desacordo sem escolher a data verdadeira por frequência. Os pareceres estão em [conferencia-0.5.4.md](avaliacao/conferencia-0.5.4.md). São retestes pontuais, sem chave ou saídas anteriores fornecidas aos aplicadores; não são casos inéditos nem repetição completa das rodadas anteriores.
 
+## Versão 0.5.5
+
+Correção editorial de 11 de novembro de 2026: remove referências à conversa de desenvolvimento e uma afirmação desatualizada sobre a publicação, acrescenta a salvaguarda sobre as pastas de teste, orienta a ordem de entrega do módulo 2 e regenera o manifesto de hashes. Não houve novos ensaios com esta versão. Os resultados acima continuam identificados com as versões efetivamente aplicadas.
+
 ## Limites de generalização
 
 A construção dos exemplos, sua revisão, as aplicações e a auditoria envolveram a mesma família de modelos em contextos separados. A referência operacional prévia não é padrão ouro humano. Não foi medida concordância entre avaliadores humanos. Nenhum dos números permite prometer eficácia geral, originalidade, verdade histórica ou resultados idênticos em outros ambientes. O teste de compreensão com estudantes e orientadores permanece pendente. A distribuição é experimental.

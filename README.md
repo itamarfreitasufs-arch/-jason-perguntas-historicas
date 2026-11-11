@@ -1,6 +1,6 @@
 # Jason — Historical Research Questions | Perguntas de pesquisa histórica
 
-Protocolo de **Itamar Freitas**, versão **0.5.4 experimental**, preparado em 5 de novembro de 2026, com assistência de IA.
+Protocolo de **Itamar Freitas**, versão **0.5.5 experimental**, de 11 de novembro de 2026 (correção editorial da 0.5.4, de 5 de novembro de 2026), preparado com assistência de IA.
 
 A Jason revisa perguntas históricas, sugere questões secundárias quando úteis e examina a correspondência entre o que uma pesquisa pergunta e o que apresenta como resposta. Serve à autoavaliação de estudantes, à orientação e a pareceres de banca. Manter uma pergunta adequada é um resultado legítimo.
 
@@ -23,9 +23,9 @@ Os módulos são definidos por operações, não por etapas obrigatórias. Uma p
 
 ## Exemplos e avaliação
 
-Os [exemplos de teste](exemplos/README.md) são **fictícios**, construídos para examinar critérios. Não representam dissertações ou fatos históricos reais. As respostas esperadas ficam em [avaliacao/chave-0.5.3.json](avaliacao/chave-0.5.3.json); evite fornecê-las ao assistente durante um teste independente.
+Os [exemplos de teste](exemplos/README.md) são **fictícios**, construídos para examinar critérios. Não representam dissertações ou fatos históricos reais. As respostas esperadas ficam em [avaliacao/chave-0.5.3.json](avaliacao/chave-0.5.3.json); evite fornecê-las ao assistente durante um teste independente. Em ferramentas que importam a pasta inteira, a chave fica ao alcance do assistente: para um teste independente, forneça apenas [SKILL.md](SKILL.md) e uma pasta de caso por conversa.
 
-[AVALIACAO.md](AVALIACAO.md) apresenta resultados e limites dos ensaios. Testes da 0.5.3 não são apresentados como validação geral da 0.5.4. Esta é uma edição experimental; o teste de compreensão com estudantes e orientadores permanece pendente.
+[AVALIACAO.md](AVALIACAO.md) apresenta resultados e limites dos ensaios. Testes da 0.5.3 não são apresentados como validação geral da 0.5.4 nem da 0.5.5. Esta é uma edição experimental; o teste de compreensão com estudantes e orientadores permanece pendente.
 
 ## Autoria e reutilização
 
